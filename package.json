@@ -4,8 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "test": "echo \"Erro: Nenhum teste definido\" && exit 1"
   },
   "dependencies": {
     "axios": "^0.19.1",
